@@ -445,3 +445,5 @@ TDP: 320W            Requires serious cooling
 **The GPU exists because graphics is "embarrassingly parallel" - millions of pixels can be processed independently, making parallelism the perfect solution.**
 
 ---
+
+**Next Step:** Ready to understand how OpenGL specifically commands this GPU hardware?
