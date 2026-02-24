@@ -253,4 +253,4 @@ Step 4: Cleanup
 - **Core concept** = OpenGL is a state machine that remembers settings
 - **The goal** = Translate application requests into GPU instructions
 
-
+---
