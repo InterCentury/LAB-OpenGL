@@ -55,9 +55,9 @@ CPU DIE (Intel i9):
 ┌─────────────────────────────────────┐
 │ ┌─────┐ ┌─────┐                    │
 │ │Core0│ │Core1│  Large cache       │
-│ │with │ │with │  Complex          │
-│ │many │ │many │  controllers      │
-│ │units│ │units│  Memory interface │
+│ │with │ │with  │  Complex          │
+│ │many │ │many  │  controllers      │
+│ │units│ │units │  Memory interface │
 │ └─────┘ └─────┘                    │
 │ ┌─────┐ ┌─────┐                    │
 │ │Core2│ │Core3│                    │
