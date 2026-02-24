@@ -608,3 +608,4 @@ Traditional Learning Path (Not Recommended):
 
 ---
 
+**Next Step:** Ready to understand shaders in detail?
