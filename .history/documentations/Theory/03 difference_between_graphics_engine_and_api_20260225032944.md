@@ -54,10 +54,10 @@ A **Graphics API** is a **communication protocol** to hardware. A **Graphics Eng
                            │
                            ▼
     ┌──────────────────────────────────────────┐
-    │ Buffer Creation      │   Shaders         │
-    │ Texture Upload       │   Draw Calls      │
-    │ State Management     │   Synchronization │
-    └──────────────────────────────────────────┘
+    │ Buffer Creation      │   Shaders        │
+    │ Texture Upload       │   Draw Calls     │
+    │ State Management     │   Synchronization│
+    └────────────────────────────────────────┘
                            │
                     [COMMUNICATES WITH]
                            │

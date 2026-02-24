@@ -42,9 +42,9 @@ A **Graphics API** is a **communication protocol** to hardware. A **Graphics Eng
                            │
                            ▼
     ┌─────────────────────────────────────┐
-    │ Scene Management     │   Physics    │
-    │ Asset Pipeline       │   Audio      │
-    │ UI System            │   Animation  │
+    │ Scene Management    │   Physics     │
+    │ Asset Pipeline      │   Audio       │
+    │ UI System           │   Animation   │
     └─────────────────────────────────────┘
                            │
                     [BUILT UPON]
@@ -53,11 +53,11 @@ A **Graphics API** is a **communication protocol** to hardware. A **Graphics Eng
                     GRAPHICS API
                            │
                            ▼
-    ┌──────────────────────────────────────────┐
-    │ Buffer Creation      │   Shaders         │
-    │ Texture Upload       │   Draw Calls      │
-    │ State Management     │   Synchronization │
-    └──────────────────────────────────────────┘
+    ┌────────────────────────────────────   ─┐
+    │ Buffer Creation     │   Shaders        │
+    │ Texture Upload      │   Draw Calls     │
+    │ State Management    │   Synchronization│
+    └───────────────────────────────────    ─┘
                            │
                     [COMMUNICATES WITH]
                            │
