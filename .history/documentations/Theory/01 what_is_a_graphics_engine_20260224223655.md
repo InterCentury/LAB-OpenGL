@@ -1,4 +1,4 @@
-# What is a Graphics Engine? - Simple  Documentation
+# What is a Graphics Engine? - Beginner's Documentation
 
 ## The Simple Analogy First
 
