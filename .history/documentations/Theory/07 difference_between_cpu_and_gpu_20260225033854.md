@@ -240,13 +240,13 @@ GAME WORKLOAD DISTRIBUTION:
 └─────────────────────────────────────┘
                     ↓ (Commands)
 ┌─────────────────────────────────────┐
-│ GPU:                                │
-│ • Vertex transformation             │
-│ • Rasterization                     │
-│ • Texture sampling                  │
-│ • Shader execution                  │
-│ • Post-processing effects           │
-│ • Frame buffer output               │
+│ GPU:                                 │
+│ • Vertex transformation              │
+│ • Rasterization                      │
+│ • Texture sampling                   │
+│ • Shader execution                   │
+│ • Post-processing effects            │
+│ • Frame buffer output                │
 └─────────────────────────────────────┘
 ```
 
