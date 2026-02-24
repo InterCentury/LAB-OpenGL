@@ -1,4 +1,4 @@
-# Difference Between Graphics Engine and Graphics API - Simple Documentation
+# Difference Between Graphics Engine and Graphics API - Beginner's Documentation
 
 ## The Restaurant Analogy
 
@@ -318,3 +318,4 @@ The engine is just writing OpenGL code automatically based on high-level instruc
 
 ---
 
+**Next Step:** Ready to understand the specific rendering pipeline that APIs like OpenGL implement?

@@ -318,3 +318,4 @@ The engine is just writing OpenGL code automatically based on high-level instruc
 
 ---
 
+erstand the specific rendering pipeline that 
