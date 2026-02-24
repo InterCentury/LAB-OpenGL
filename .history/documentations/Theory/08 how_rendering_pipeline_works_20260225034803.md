@@ -1,4 +1,4 @@
-# How the Rendering Pipeline Works
+# How the Rendering Pipeline Works - Beginner's Documentation
 
 ## The Restaurant Kitchen Analogy
 
