@@ -1,4 +1,4 @@
-# Difference Between CPU and GPU 
+# Difference Between CPU and GPU - Beginner's Documentation
 
 ## The Library Analogy
 
@@ -489,3 +489,5 @@ GPU ROLE:
 **The CPU asks "How fast can I solve this one problem?" The GPU asks "How many of these problems can I solve at once?" Both are essential, and modern computing uses both together.**
 
 ---
+
+**Next Step:** Ready to understand how OpenGL commands the GPU to render graphics?

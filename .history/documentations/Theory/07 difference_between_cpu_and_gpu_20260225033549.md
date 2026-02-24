@@ -1,4 +1,4 @@
-# Difference Between CPU and GPU 
+# Difference Between CPU and GPU - Beginner's Documentation
 
 ## The Library Analogy
 
