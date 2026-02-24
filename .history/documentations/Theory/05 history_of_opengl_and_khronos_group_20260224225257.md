@@ -1,4 +1,4 @@
-# History of OpenGL and Khronos Group - Simple Documentation
+# History of OpenGL and Khronos Group - Beginner's Documentation
 
 ## The Origin Story Analogy
 
