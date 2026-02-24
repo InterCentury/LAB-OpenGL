@@ -41,7 +41,7 @@ CPU DESIGN:
 │ │Core1│ │Core2│ │Core3│ │Core4│     │
 │ │Big  │ │Big  │ │Big  │ │Big  │     │
 │ └─────┘ └─────┘ └─────┘ └─────┘     │
-│ Large Cache, Complex Logic Units    │
+│ Large Cache, Complex Logic Units   │
 └─────────────────────────────────────┘
 
 GPU DESIGN:
