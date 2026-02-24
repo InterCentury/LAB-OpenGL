@@ -1,4 +1,4 @@
-# Fixed Pipeline vs Programmable Pipeline - Beginner's Documentation
+# Fixed Pipeline vs Programmable Pipeline 
 
 ## The Restaurant Chain Analogy
 
