@@ -49,7 +49,7 @@ THREE VERTICES FORM A TRIANGLE:
     ●
     |\
     | \
-    ●──●
+    ●───●
 
 MANY VERTICES FORM COMPLEX SHAPES:
     ●────●────●

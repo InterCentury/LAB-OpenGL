@@ -45,11 +45,10 @@ A SINGLE VERTEX:
 TWO VERTICES FORM A LINE:
     ●─────────●
 
-THREE VERTICES FORM A TRIANGLE:
-    ●
-    |\
+THREE VERTICES FORM A TRIANGLE:●
     | \
-    ●──●
+    |  \
+    ●───●
 
 MANY VERTICES FORM COMPLEX SHAPES:
     ●────●────●
