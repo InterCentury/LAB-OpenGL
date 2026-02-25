@@ -848,3 +848,4 @@ color = mix(c2, c1, float(condition));
 
 ---
 
+**Next Step:** Ready to understand how to pass data between shaders?

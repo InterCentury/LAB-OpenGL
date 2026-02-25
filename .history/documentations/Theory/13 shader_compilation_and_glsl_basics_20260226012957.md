@@ -1,4 +1,4 @@
-# Shader Compilation and GLSL Basics 
+# Shader Compilation and GLSL Basics - Beginner's Documentation
 
 ## The Recipe Book Analogy
 
@@ -848,3 +848,4 @@ color = mix(c2, c1, float(condition));
 
 ---
 
+**Next Step:** Ready to understand how to pass data between shaders?
