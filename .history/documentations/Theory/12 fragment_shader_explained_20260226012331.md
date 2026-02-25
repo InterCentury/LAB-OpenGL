@@ -1,4 +1,4 @@
-# Fragment Shader Explanation (Basics)
+# Fragment ShaderExExplained - Beginner's Documentation
 
 ## The Digital Painter Analogy
 
