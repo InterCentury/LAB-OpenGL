@@ -1,4 +1,4 @@
-# Explanation about Vertex-Shader 
+# Explanation about Vertex-Shad
 
 ## The Assembly Line Worker Analogy
 
