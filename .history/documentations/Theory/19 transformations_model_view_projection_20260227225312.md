@@ -273,9 +273,9 @@ VIEW SPACE:                     CLIP SPACE:
      |  /────────┐                 |  ┌──────┐
      | /         │                 |  │      │
      |/          │                 |  │      │
-     ○───────→ X  Far plane        |  │      │
-    /|          │                  |  │      │
-   / |          │                  |  └──────┘
+     ○───────→ X  Far plane         |  │      │
+    /|          │                 |  │      │
+   / |          │                 |  └──────┘
   Z  └──────────┘                  └──────────→ X
      Near plane
 
@@ -438,12 +438,12 @@ gl_Position = model * view * projection * vec4(aPos, 1.0);
 Apply translate then rotate:
     ●━━━●          ●━━━●
     │   │    →     │   │    →   ╱    (rotated around origin)
-    ●━━━●          ●━━━●       ╱
+    ●━━━●          ●━━━●      ╱
 
 Apply rotate then translate:
     ●━━━●           ╲          ●━━━●
     │   │    →       ╲    →    │   │    (rotated then moved)
-    ●━━━●             ╲        ●━━━●
+    ●━━━●             ╲         ●━━━●
 ```
 
 ---
@@ -677,3 +677,4 @@ if (glm::any(glm::isnan(m)) || glm::any(glm::isinf(m))) {
 
 ---
 
+**Next Step:** Ready to understand how lighting and shading work?<｜end▁of▁thinking｜>

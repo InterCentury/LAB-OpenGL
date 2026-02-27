@@ -443,7 +443,7 @@ Apply translate then rotate:
 Apply rotate then translate:
     ●━━━●           ╲          ●━━━●
     │   │    →       ╲    →    │   │    (rotated then moved)
-    ●━━━●             ╲        ●━━━●
+    ●━━━●             ╲         ●━━━●
 ```
 
 ---

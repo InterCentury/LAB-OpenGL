@@ -438,12 +438,12 @@ gl_Position = model * view * projection * vec4(aPos, 1.0);
 Apply translate then rotate:
     ●━━━●          ●━━━●
     │   │    →     │   │    →   ╱    (rotated around origin)
-    ●━━━●          ●━━━●       ╱
+    ●━━━●          ●━━━●      ╱
 
 Apply rotate then translate:
     ●━━━●           ╲          ●━━━●
     │   │    →       ╲    →    │   │    (rotated then moved)
-    ●━━━●             ╲        ●━━━●
+    ●━━━●             ╲         ●━━━●
 ```
 
 ---
