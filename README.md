@@ -1,5 +1,5 @@
 
-
+![Alt text](https://github.com/InterCentury/LAB-OpenGL/blob/main/bin/banner-lab-openGL.jpg?raw=true)
 
 # 🧪 LAB-OpenGL
 
