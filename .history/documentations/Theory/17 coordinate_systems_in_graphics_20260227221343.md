@@ -297,8 +297,8 @@ VIEW SPACE:                     CLIP SPACE (after projection):
      | /         │                  |  │      │
      |/          │                  |  │      │
      ○───────→ X   Far plane        |  │      │
-    /|          │                  |  │      │
-   / |          │                  |  └──────┘
+    /|          │                   |  │      │
+   / |          │                   |  └──────┘
   Z  └──────────┘                   └──────────→ X
      Near plane
 
