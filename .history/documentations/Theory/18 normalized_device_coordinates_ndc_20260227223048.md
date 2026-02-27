@@ -31,7 +31,7 @@ NDC SPACE VISUALIZED:
          ↑
          ●━━━━●
         /|   /|
-       ●━━━━● │
+       ●━━━━●│ │
        | │  | │   Range: -1 to 1 in all axes
        | ●━━|━● → (+X)
        |/   |/
