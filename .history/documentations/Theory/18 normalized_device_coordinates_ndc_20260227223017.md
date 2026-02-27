@@ -29,7 +29,7 @@ Normalized Device Coordinates can be understood through a universal measuring sy
 NDC SPACE VISUALIZED:
         (+Y)
          ↑
-         ●━━━━●
+         ●━━━●
         /|   /|
        ●━━━●│ │
        | │  | │   Range: -1 to 1 in all axes
