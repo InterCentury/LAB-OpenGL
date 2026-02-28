@@ -617,9 +617,9 @@ STANDARD:                   CONSERVATIVE:
 └───┴───┘                  └───┴───┘
 
 Used for:
- - Collision detection
- - Occlusion culling
- - Shadow maps
+   - Collision detection
+   - Occlusion culling
+   - Shadow maps
 ```
 
 ### Multi-View Rasterization

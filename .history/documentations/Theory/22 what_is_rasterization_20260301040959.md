@@ -609,17 +609,12 @@ rasterizeShadeRate(2, 2);  // One shade per 4 pixels
 // Standard rasterization: pixel center inside triangle
 // Conservative: any pixel touched by triangle
 
-STANDARD:                   CONSERVATIVE:
-┌───┬───┐                  ┌───┬───┐
-│   │   │ Pixel center     │███│███│ Full coverage
-├───┼───┤ inside triangle  ├───┼───┤
-│   │   │ only             │███│███│
-└───┴───┘                  └───┴───┘
+STANDARD:                      CONSERVATIVE:┌───┬───┐                     ┌───┬───┐│   │   │ Pixel center        │███│███│ Full coverage├───┼───┤ inside triangle     ├───┼───┤│   │   │ only                │███│███│└───┴───┘                     └───┴───┘
 
 Used for:
- - Collision detection
- - Occlusion culling
- - Shadow maps
+- Collision detection
+- Occlusion culling
+- Shadow maps
 ```
 
 ### Multi-View Rasterization
