@@ -507,9 +507,9 @@ Modern games combine both:
 rasterizeScene();
 
 // Ray tracing for specific effects
-rayTraceShadows();     // Accurate shadows
-rayTraceReflections(); // Perfect reflections
-rayTraceGI();          // Global illumination
+rayTraceShadows();      // Accurate shadows
+rayTraceReflections();  // Perfect reflections
+rayTraceGI();           // Global illumination
 
 // Composite results
 combineImages();
