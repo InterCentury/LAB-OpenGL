@@ -382,9 +382,9 @@ RASTERIZER UNIT ARCHITECTURE:
 ┌──────────────────────────────────────────────┐
 │ Triangle Setup                               │
 │ └→ Edge Walker (generates spans)             │
-│    └→ Span Generator (generates fragments)   │  
-│       └→ Interpolator (computes attributes)  │  
-│          └→ Fragment Output                  │
+│    └→ Span Generator (generates fragments)
+│       └→ Interpolator (computes attributes)
+│          └→ Fragment Output          │
 └──────────────────────────────────────────────┘
 
 × 16-128 parallel units!

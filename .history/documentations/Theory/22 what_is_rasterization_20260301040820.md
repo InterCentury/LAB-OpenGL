@@ -382,8 +382,8 @@ RASTERIZER UNIT ARCHITECTURE:
 ┌──────────────────────────────────────────────┐
 │ Triangle Setup                               │
 │ └→ Edge Walker (generates spans)             │
-│    └→ Span Generator (generates fragments)   │  
-│       └→ Interpolator (computes attributes)  │  
+│    └→ Span Generator (generates fragments)│
+│       └→ Interpolator (computes attributes│
 │          └→ Fragment Output                  │
 └──────────────────────────────────────────────┘
 
