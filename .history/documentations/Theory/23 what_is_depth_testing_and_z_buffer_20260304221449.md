@@ -289,8 +289,8 @@ Far plane (z = -100) → depth = 0.001   (little precision)
 
 The graph of 1/z shows why:
 depth
-1.0 ┤      ╱
-    │     ╱
+1.0 ┤          ╱
+    │        ╱
 0.5 ┤    ╱
     │   ╱
 0.0 ┼──╱────────── z
