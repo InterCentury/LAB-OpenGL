@@ -24,13 +24,13 @@ Double buffering and VSync can be understood through a theater production:
 ```
 VISUAL TEARING:
 
-Frame 1 (top half)    →      ┌─────────────────┐
-                             │    Frame 1      │
+Frame 1 (top half)    →    ┌─────────────────┐
+                           │    Frame 1      │
+                           │                 │
+Frame 2 (bottom half) →     ├─────────────────┤  ← Tear line
+                             │    Frame 2      │
                              │                 │
-Frame 2 (bottom half) →      ├─────────────────┤  ← Tear line
-                              │    Frame 2      │
-                              │                 │
-                              └─────────────────┘
+                             └─────────────────┘
 
 The image appears "split" horizontally
 Parts of two different frames visible simultaneously
