@@ -102,12 +102,12 @@ float cubeVertices[] = {
 ```
 UV MAPPING ON A CUBE:
     
-    Front Face:             Back Face:
-(0,1)━━━━━━━━━━(1,1)    (1,1)━━━━━━━━━━(0,1)
-     ┃        ┃              ┃        ┃
-     ┃  TEXT  ┃              ┃  TEXT  ┃
-     ┃        ┃              ┃        ┃
-(0,0)━━━━━━━━━━(1,0)    (1,0)━━━━━━━━━━(0,0)
+    Front Face:          Back Face:
+    (0,1)━━━━(1,1)       (1,1)━━━━(0,1)
+     ┃        ┃           ┃        ┃
+     ┃  TEXT  ┃           ┃  TEXT  ┃
+     ┃        ┃           ┃        ┃
+    (0,0)━━━━(1,0)       (1,0)━━━━(0,0)
 
     Different faces can use different parts of the same texture
     or repeat the same UVs for tiled textures
